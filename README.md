@@ -7,7 +7,7 @@ I'm Anthony Andino a Software Developer from Honduras passionate about building 
 `C#` `PHP` `Python` `JavaScript` `CSS` `SQL`
 
 ## 🎯 A Bit About Me
-> “I enjoy creating simple, useful, and well-organized things. Less is more.”
+“I enjoy creating simple, useful, and well-organized things. Less is more.”
 
 - 🎌 Anime and movies.
 - 🎮 Gaming.
