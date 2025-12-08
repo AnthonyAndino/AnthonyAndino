@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**AnthonyAndino/AnthonyAndino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-
+I'm Anthony Andino a Software Developer from Honduras passionate about building simple and easy-to-use solutions. I love learning new skills through self-teaching and exploring technologies that help me grow every day.
 
-Here are some ideas to get you started:
+## 🛠️ Tech & Tools
+`C#` `PHP` `Python` `JavaScript` `CSS` `SQL`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🎯 A Bit About Me
+> “I enjoy creating simple, useful, and well-organized things. Less is more.”
+
+- 🎌 Anime and movies.
+- 🎮 Gaming.
+- 📌 Personal organization and agile methodologies.-
 -->
