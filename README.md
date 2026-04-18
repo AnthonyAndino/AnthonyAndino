@@ -8,6 +8,8 @@ I'm Anthony Andino a Software Developer from Honduras passionate about building 
 - Python
 - JavaScript
 - CSS
+- C++
+- C
 - SQL
 
 ## 🎯 A Bit About Me
