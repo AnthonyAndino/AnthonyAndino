@@ -32,7 +32,7 @@
 
 ## 📊 GitHub Stats
 
-![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyAndino&show_icons=true&theme=tokyonight)
+![Anthony's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AnthonyAndino&show_icons=true&theme=tokyonight)
 
 ---
 
