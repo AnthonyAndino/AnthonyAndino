@@ -4,7 +4,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300C2FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Anthony+Andino;Software+Developer+from+Honduras+🇭🇳;Always+learning+new+things;Building+simple+and+cool+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300C2FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Anthony+Andino;Software+Developer+from+Honduras+🇭🇳;Always+learning+new+things;Building+simple+and+cool+projects)](https://git.io/typing-svg)
 
 ---
 
