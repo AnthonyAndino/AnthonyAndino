@@ -55,3 +55,57 @@
 ---
 
 *Less is more. Simple things last longer.*
+
+
+
+
+### Hey there —
+# I'm Anthony Andino.
+
+Software developer from **Honduras** who cares about writing code that's readable, purposeful, and gets the job done. I build full-stack web apps and I'm always learning something new on the side.
+
+---
+
+### Languages I work with
+`TypeScript` `JavaScript` `Python` `PHP` `C#` `SQL` `C++` `C`
+
+---
+
+### Frameworks & comfort level
+
+| Framework | Level |
+|-----------|-------|
+| React | ██████░░░░ Intermediate |
+| Laravel | ██████░░░░ Intermediate |
+| Node.js | ██████░░░░ Intermediate |
+| TailwindCSS | ██████░░░░ Intermediate |
+| Express | ███░░░░░░░ Basic |
+| .NET | ███░░░░░░░ Basic |
+
+---
+
+### A bit about me
+
+- 💡 I like solutions that are clean, simple, and actually useful
+- 📖 Self-taught — I learn by building things and breaking them
+- 🎮 Gamer when I'm not coding
+- 📋 Agile and personal productivity nerd
+
+---
+
+### GitHub activity
+
+![Anthony's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AnthonyAndino&show_icons=true&theme=tokyonight)
+
+---
+
+### Find me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github&logoColor=white)](https://anthonyandino.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-andino-ad)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/aandino_07/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anthonyandino959@gmail.com)
+
+---
+
+> *"Less is more. Simple things last longer."* &nbsp;·&nbsp; Tegucigalpa, HN 🇭🇳
