@@ -1,3 +1,5 @@
+![](assets/Bottom_up.svg)
+
 # Hi, I'm Anthony Andino 👋
 ### Software Developer · Honduras 🇭🇳
 > Building simple, effective solutions through code.
