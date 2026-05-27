@@ -27,6 +27,7 @@
 ![Express](https://img.shields.io/badge/Express-Intermediate-000000?style=flat&logo=express&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-Basic-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-Basic-092E20?style=flat&logo=django&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-Intermediate-41CD52?style=flat&logo=qt&logoColor=white)
 
 ---
 
