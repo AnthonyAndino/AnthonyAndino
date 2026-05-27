@@ -22,9 +22,9 @@
 
 ![React](https://img.shields.io/badge/React-Intermediate-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-Intermediate-FF2D20?style=flat&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Intermediate-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Express](https://img.shields.io/badge/Express-Basic-000000?style=flat&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-Basic-FF2D20?style=flat&logo=laravel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Basic-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Express](https://img.shields.io/badge/Express-Intermediate-000000?style=flat&logo=express&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-Basic-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 ---
