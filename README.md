@@ -17,7 +17,7 @@
     <td width="65%" valign="middle">
       <p align="left">
         🚀 Currently developing my <b>programming skills</b> and building real projects.<br>
-        💻 Experience building <b>web systems</b> with React, Node.js and Bootstrap.<br>
+        💻 Learning to build and improve <b>web systems</b> every day.<br>
         🎌 Interest in <b>Anime, Movies</b>, and exploring new tech.<br>
         📋 I focus on solutions that are <b>simple, useful, and well-organized</b>.
       </p>
