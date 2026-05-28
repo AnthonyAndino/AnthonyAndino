@@ -64,7 +64,9 @@
 <hr style="height: 1px; border: none; background: #444;" />
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnthonyAndino&theme=monokai" height="180" />
+  <span style="display: inline-block; border-radius: 10px; overflow: hidden;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnthonyAndino&show_icons=true&bg_color=1a1a1a&text_color=ffffff&icon_color=e33636&title_color=e33636&hide_border=true" height="180" />
+  </span>
   
   <span style="display: inline-block; border-radius: 10px; overflow: hidden;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyAndino&theme=black-ice&fire=e33636&currStreakNum=e33636&sideNums=ffffff&sideLabels=ffffff&dates=888888&ring=e33636&stroke=e33636&background=1a1a1a&hide_border=true" height="180" />
