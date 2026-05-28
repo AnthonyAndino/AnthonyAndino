@@ -16,10 +16,10 @@
   <tr>
     <td width="65%" valign="middle">
       <p align="left">
-        <img src="https://unpkg.com/lucide-static/icons/arrow-right.svg" width="14" height="14" style="vertical-align: middle; margin-right: 6px; filter: brightness(0) invert(0.55);" /> Building real-world <b>web applications</b> and improving my development skills every day.<br>
-        <img src="https://unpkg.com/lucide-static/icons/database.svg" width="14" height="14" style="vertical-align: middle; margin-right: 6px; filter: brightness(0) invert(0.55);" /> Focused on <b>backend systems</b>, APIs, and modern web interfaces.<br>
-        <img src="https://unpkg.com/lucide-static/icons/check.svg" width="14" height="14" style="vertical-align: middle; margin-right: 6px; filter: brightness(0) invert(0.55);" /> Creating solutions that are <b>simple, useful, and well-organized</b>.<br>
-        <img src="https://unpkg.com/lucide-static/icons/star.svg" width="14" height="14" style="vertical-align: middle; margin-right: 6px; filter: brightness(0) invert(0.55);" /> Interested in <b>Anime, Movies</b>, and exploring new technologies.
+        <img src="https://img.icons8.com/ios-glyphs/14/e33636/forward--v1.png" style="vertical-align: middle; margin-right: 6px;" /> Building real-world <b>web applications</b> and improving my development skills every day.<br>
+        <img src="https://img.icons8.com/ios-glyphs/14/e33636/database.png" style="vertical-align: middle; margin-right: 6px;" /> Focused on <b>backend systems</b>, APIs, and modern web interfaces.<br>
+        <img src="https://img.icons8.com/ios-glyphs/14/e33636/checkmark--v1.png" style="vertical-align: middle; margin-right: 6px;" /> Creating solutions that are <b>simple, useful, and well-organized</b>.<br>
+        <img src="https://img.icons8.com/ios-glyphs/14/e33636/star--v1.png" style="vertical-align: middle; margin-right: 6px;" /> Interested in <b>Anime, Movies</b>, and exploring new technologies.
       </p>
       <p align="left">
         <img src="https://img.shields.io/badge/Reach%20Me%20on-2d2d2d?style=for-the-badge&labelColor=e33636&color=2d2d2d" /><br><br>
