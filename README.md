@@ -1,63 +1,86 @@
-# Hi, I'm Anthony Andino 👋
-### Software Developer · Honduras 🇭🇳
-> Building simple, effective solutions through code.
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AnthonyAndino/AnthonyAndino/main/assets/banner1.jpg" width="100%" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=cc5555&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Anthony+Andino;Software+Developer+%C2%B7+Honduras+%F0%9F%87%AD%F0%9F%87%B3" width="60%" />
+
+<p align="center"><i>Still learning, still building — one line of code at a time.</i></p>
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300C2FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Anthony+Andino;Software+Developer+from+Honduras+🇭🇳;Always+learning+new+things;Building+simple+and+cool+projects)](https://git.io/typing-svg)
+<img src="https://img.shields.io/badge/About%20Me-2d2d2d?style=for-the-badge&labelColor=e33636&color=2d2d2d" />
+
+<img src="https://raw.githubusercontent.com/AnthonyAndino/AnthonyAndino/main/assets/me.jpg" width="280px" align="right" style="border-radius: 50%; margin-left: 20px;" />
+
+<p align="left">
+  🚀 Currently developing my <b>programming skills</b> and building real projects.<br>
+  💻 Experience building <b>web systems</b> with React, Node.js and Bootstrap.<br>
+  🎌 Interest in <b>Anime, Movies</b>, and exploring new tech.<br>
+  📋 I focus on solutions that are <b>simple, useful, and well-organized</b>.
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Reach%20Me%20on-2d2d2d?style=for-the-badge&labelColor=e33636&color=2d2d2d" /><br><br>
+  <a href="mailto:anthonyandino959@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/anthony-andino-ad">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://anthonyandino.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/aandino_07/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<br clear="both">
 
 ---
 
-## 🛠️ Tech Stack
+<img src="https://img.shields.io/badge/Languages%20%26%20Tools-2d2d2d?style=for-the-badge&labelColor=e33636&color=2d2d2d" />
 
-**Languages**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-Intermediate-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-Basic-FF2D20?style=flat&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Basic-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Express](https://img.shields.io/badge/Express-Intermediate-000000?style=flat&logo=express&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-Basic-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Django](https://img.shields.io/badge/Django-Basic-092E20?style=flat&logo=django&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-Intermediate-41CD52?style=flat&logo=qt&logoColor=white)
+<img src="https://img.shields.io/badge/Stats-2d2d2d?style=for-the-badge&labelColor=e33636&color=2d2d2d" />
 
 ---
 
-## 👤 About Me
+<img src="https://img.shields.io/badge/Tech%20Stack-2d2d2d?style=for-the-badge&labelColor=e33636&color=2d2d2d" />
 
-- 🎯 I focus on building solutions that are simple, useful, and well-organized
-- 📚 Self-taught developer, always exploring new technologies
-- 🎌 Anime and movies enthusiast
-- 🎮 Gamer at heart
-- 📋 Interested in agile methodologies and personal organization
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnthonyAndino&theme=monokai" height="180" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyAndino&theme=black-ice&fire=e33636&currStreakNum=e33636&sideNums=ffffff&sideLabels=ffffff&dates=888888&ring=e33636&stroke=e33636&background=1a1a1a&hide_border=false" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnthonyAndino&bg_color=1a1a1a&color=e33636&line=e33636&point=ffffff&area=true&hide_border=false" width="100%" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+<!-- IMAGEN DE CIERRE -->
+<img src="https://raw.githubusercontent.com/AnthonyAndino/AnthonyAndino/main/assets/banner2.jpg" width="100%" />
 
-![Anthony's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AnthonyAndino&show_icons=true&theme=tokyonight)
-
----
-
-## 🔗 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://anthonyandino.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-andino-ad)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/aandino_07/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anthonyandino959@gmail.com)
-
----
+<br>
 
 *Less is more. Simple things last longer.*
+
+</div>
