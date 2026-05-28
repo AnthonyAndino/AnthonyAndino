@@ -50,7 +50,7 @@
 <hr style="height: 1px; border: none; background: #444;" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,php,py,js,ts,html,css,cpp,c,git,md&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,php,py,js,ts,cpp,c,git&theme=dark" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,tailwind,express,dotnet,django,qt,mysql,postgres,bootstrap,sqlserver&theme=dark" />
   <br><br>
