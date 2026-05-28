@@ -6,11 +6,11 @@
 
 <p align="center"><i>Still learning, still building — one line of code at a time.</i></p>
 
----
+<hr style="height: 1px; border: none; background: #444;" />
 
 <img src="https://img.shields.io/badge/About%20Me-2d2d2d?style=for-the-badge&labelColor=e33636&color=2d2d2d" />
 
----
+<hr style="height: 1px; border: none; background: #444;" />
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -43,11 +43,11 @@
   </tr>
 </table>
 
----
+<hr style="height: 1px; border: none; background: #444;" />
 
 <img src="https://img.shields.io/badge/Languages%20%26%20Tools-2d2d2d?style=for-the-badge&labelColor=e33636&color=2d2d2d" />
 
----
+<hr style="height: 1px; border: none; background: #444;" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,php,py,js,ts,html,css,cpp,c,git,md&theme=dark" />
@@ -57,11 +57,11 @@
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,github,postman&theme=dark" />
 </p>
 
----
+<hr style="height: 1px; border: none; background: #444;" />
 
 <img src="https://img.shields.io/badge/Stats-2d2d2d?style=for-the-badge&labelColor=e33636&color=2d2d2d" />
 
----
+<hr style="height: 1px; border: none; background: #444;" />
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnthonyAndino&theme=monokai" height="180" />
@@ -73,7 +73,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnthonyAndino&bg_color=1a1a1a&color=e33636&line=e33636&point=ffffff&area=true&hide_border=false" width="100%" />
 </p>
 
----
+<hr style="height: 1px; border: none; background: #444;" />
 
 <!-- IMAGEN DE CIERRE -->
 <img src="https://raw.githubusercontent.com/AnthonyAndino/AnthonyAndino/main/assets/banner2.jpg" width="100%" />
