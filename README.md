@@ -57,6 +57,8 @@
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,github,postman&theme=dark" />
 </p>
 
+---
+
 <img src="https://img.shields.io/badge/Stats-2d2d2d?style=for-the-badge&labelColor=e33636&color=2d2d2d" />
 
 ---
