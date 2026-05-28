@@ -12,32 +12,36 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/AnthonyAndino/AnthonyAndino/main/assets/me.jpg" width="280px" align="right" style="border-radius: 50%; margin-left: 20px;" />
-
-<p align="left">
-  🚀 Currently developing my <b>programming skills</b> and building real projects.<br>
-  💻 Experience building <b>web systems</b> with React, Node.js and Bootstrap.<br>
-  🎌 Interest in <b>Anime, Movies</b>, and exploring new tech.<br>
-  📋 I focus on solutions that are <b>simple, useful, and well-organized</b>.
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Reach%20Me%20on-2d2d2d?style=for-the-badge&labelColor=e33636&color=2d2d2d" /><br><br>
-  <a href="mailto:anthonyandino959@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/anthony-andino-ad">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://anthonyandino.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/aandino_07/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-<br clear="both">
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="65%" valign="middle">
+      <p align="left">
+        🚀 Currently developing my <b>programming skills</b> and building real projects.<br>
+        💻 Experience building <b>web systems</b> with React, Node.js and Bootstrap.<br>
+        🎌 Interest in <b>Anime, Movies</b>, and exploring new tech.<br>
+        📋 I focus on solutions that are <b>simple, useful, and well-organized</b>.
+      </p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Reach%20Me%20on-2d2d2d?style=for-the-badge&labelColor=e33636&color=2d2d2d" /><br><br>
+        <a href="mailto:anthonyandino959@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+        <a href="https://www.linkedin.com/in/anthony-andino-ad">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="https://anthonyandino.github.io/">
+          <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://www.instagram.com/aandino_07/">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/AnthonyAndino/AnthonyAndino/main/assets/me.jpg" width="260px" style="border-radius: 50%;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
