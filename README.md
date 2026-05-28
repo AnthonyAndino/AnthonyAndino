@@ -66,11 +66,15 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnthonyAndino&theme=monokai" height="180" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyAndino&theme=black-ice&fire=e33636&currStreakNum=e33636&sideNums=ffffff&sideLabels=ffffff&dates=888888&ring=e33636&stroke=e33636&background=1a1a1a&hide_border=false" height="180" />
+  <span style="display: inline-block; border-radius: 10px; overflow: hidden;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyAndino&theme=black-ice&fire=e33636&currStreakNum=e33636&sideNums=ffffff&sideLabels=ffffff&dates=888888&ring=e33636&stroke=e33636&background=1a1a1a&hide_border=true" height="180" />
+  </span>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnthonyAndino&bg_color=1a1a1a&color=e33636&line=e33636&point=ffffff&area=true&hide_border=false" width="100%" />
+  <span style="display: inline-block; border-radius: 10px; overflow: hidden; width: 100%;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnthonyAndino&bg_color=1a1a1a&color=e33636&line=e33636&point=ffffff&area=true&hide_border=true" width="100%" />
+  </span>
 </p>
 
 <hr style="height: 1px; border: none; background: #444;" />
