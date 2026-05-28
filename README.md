@@ -16,10 +16,10 @@
   <tr>
     <td width="65%" valign="middle">
       <p align="left">
-        ▸ Building real-world <b>web applications</b> and improving my development skills every day.<br>
-        ▸ Focused on <b>backend systems</b>, APIs, and modern web interfaces.<br>
-        ▸ Creating solutions that are <b>simple, useful, and well-organized</b>.<br>
-        ▸ Interested in <b>Anime, Movies</b>, and exploring new technologies.
+        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxNicgaGVpZ2h0PScxNicgdmlld0JveD0nMCAwIDI0IDI0JyBmaWxsPSdub25lJyBzdHJva2U9JyNhMWExYWEnIHN0cm9rZS13aWR0aD0nMicgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJyBzdHJva2UtbGluZWpvaW49J3JvdW5kJz48bGluZSB4MT0nNScgeTE9JzEyJyB4Mj0nMTknIHkyPScxMicvPjxwb2x5bGluZSBwb2ludHM9JzEyIDUgMTkgMTIgMTIgMTknLz48L3N2Zz4=" width="16" height="16" style="vertical-align: middle; margin-right: 6px;" /> Building real-world <b>web applications</b> and improving my development skills every day.<br>
+        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxNicgaGVpZ2h0PScxNicgdmlld0JveD0nMCAwIDI0IDI0JyBmaWxsPSdub25lJyBzdHJva2U9JyNhMWExYWEnIHN0cm9rZS13aWR0aD0nMicgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJyBzdHJva2UtbGluZWpvaW49J3JvdW5kJz48ZWxsaXBzZSBjeD0nMTInIGN5PSc1JyByeD0nOScgcnk9JzMnLz48cGF0aCBkPSdNMjEgMTJjMCAxLjY2LTQgMy05IDNzLTktMS4zNC05LTMnLz48cGF0aCBkPSdNMyA1djE0YzAgMS42NiA0IDMgOSAzczktMS4zNCA5LTNWNScvPjwvc3ZnPg==" width="16" height="16" style="vertical-align: middle; margin-right: 6px;" /> Focused on <b>backend systems</b>, APIs, and modern web interfaces.<br>
+        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxNicgaGVpZ2h0PScxNicgdmlld0JveD0nMCAwIDI0IDI0JyBmaWxsPSdub25lJyBzdHJva2U9JyNhMWExYWEnIHN0cm9rZS13aWR0aD0nMicgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJyBzdHJva2UtbGluZWpvaW49J3JvdW5kJz48cG9seWxpbmUgcG9pbnRzPScyMCA2IDkgMTcgNCAxMicvPjwvc3ZnPg==" width="16" height="16" style="vertical-align: middle; margin-right: 6px;" /> Creating solutions that are <b>simple, useful, and well-organized</b>.<br>
+        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxNicgaGVpZ2h0PScxNicgdmlld0JveD0nMCAwIDI0IDI0JyBmaWxsPSdub25lJyBzdHJva2U9JyNhMWExYWEnIHN0cm9rZS13aWR0aD0nMicgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJyBzdHJva2UtbGluZWpvaW49J3JvdW5kJz48cG9seWdvbiBwb2ludHM9JzEyIDIgMTUuMDkgOC4yNiAyMiA5LjI3IDE3IDE0LjE0IDE4LjE4IDIxLjAyIDEyIDE3Ljc3IDUuODIgMjEuMDIgNyAxNC4xNCAyIDkuMjcgOC45MSA4LjI2IDEyIDInLz48L3N2Zz4=" width="16" height="16" style="vertical-align: middle; margin-right: 6px;" /> Interested in <b>Anime, Movies</b>, and exploring new technologies.
       </p>
       <p align="left">
         <img src="https://img.shields.io/badge/Reach%20Me%20on-2d2d2d?style=for-the-badge&labelColor=e33636&color=2d2d2d" /><br><br>
