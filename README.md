@@ -65,7 +65,7 @@
 
 <p align="center">
   <span style="display: inline-block; border-radius: 10px; overflow: hidden;">
-    <img src="https://github-readme-stats.vercel.app/api?username=AnthonyAndino&show_icons=true&theme=dark&bg_color=1a1a1a&title_color=e33636&icon_color=e33636&text_color=ffffff&border_color=e33636hide_border=true" height="180" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnthonyAndino&theme=monokai" height="180" />
   </span>
   
   <span style="display: inline-block; border-radius: 10px; overflow: hidden;">
