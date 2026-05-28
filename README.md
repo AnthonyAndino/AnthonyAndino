@@ -43,6 +43,8 @@
 
 <img src="https://img.shields.io/badge/Languages%20%26%20Tools-2d2d2d?style=for-the-badge&labelColor=e33636&color=2d2d2d" />
 
+---
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,php,py,js,ts,html,css,cpp,c&theme=dark" />
   <br><br>
@@ -52,6 +54,8 @@
 ---
 
 <img src="https://img.shields.io/badge/Tech%20Stack-2d2d2d?style=for-the-badge&labelColor=e33636&color=2d2d2d" />
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -71,6 +75,8 @@
 ---
 
 <img src="https://img.shields.io/badge/Stats-2d2d2d?style=for-the-badge&labelColor=e33636&color=2d2d2d" />
+
+---
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnthonyAndino&theme=monokai" height="180" />
