@@ -16,10 +16,10 @@
   <tr>
     <td width="65%" valign="middle">
       <p align="left">
-        🚀 Currently developing my <b>programming skills</b> and building real projects.<br>
-        💻 Learning to build and improve <b>web systems</b> every day.<br>
-        🎌 Interest in <b>Anime, Movies</b>, and exploring new tech.<br>
-        📋 I focus on solutions that are <b>simple, useful, and well-organized</b>.
+        ▸ Building real-world <b>web applications</b> and improving my development skills every day.<br>
+        ▸ Focused on <b>backend systems</b>, APIs, and modern web interfaces.<br>
+        ▸ Creating solutions that are <b>simple, useful, and well-organized</b>.<br>
+        ▸ Interested in <b>Anime, Movies</b>, and exploring new technologies.
       </p>
       <p align="left">
         <img src="https://img.shields.io/badge/Reach%20Me%20on-2d2d2d?style=for-the-badge&labelColor=e33636&color=2d2d2d" /><br><br>
