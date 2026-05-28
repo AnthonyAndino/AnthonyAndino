@@ -54,7 +54,7 @@
   <br><br>
   <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,tailwind,express,dotnet,django,qt,mysql,postgres,bootstrap&theme=dark" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=visualstudio,pycharm,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,github&theme=dark" />
 </p>
 
 ---
