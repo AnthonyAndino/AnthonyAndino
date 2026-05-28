@@ -6,9 +6,9 @@
 
 <p align="center"><i>Still learning, still building — one line of code at a time.</i></p>
 
----
-
 <img src="https://img.shields.io/badge/About%20Me-2d2d2d?style=for-the-badge&labelColor=e33636&color=2d2d2d" />
+
+---
 
 <img src="https://raw.githubusercontent.com/AnthonyAndino/AnthonyAndino/main/assets/me.jpg" width="280px" align="right" style="border-radius: 50%; margin-left: 20px;" />
 
