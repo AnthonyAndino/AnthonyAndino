@@ -52,7 +52,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,php,py,js,ts,cpp,c,git,bash&theme=dark" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,tailwind,express,dotnet,django,qt,mysql,postgres,bootstrap,sqlserver&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,tailwind,express,nextjs,django,qt,mysql,postgres,bootstrap,sqlserver&theme=dark" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,webstorm,rider,github,postman&theme=dark" />
 </p>
