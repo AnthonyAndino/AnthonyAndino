@@ -29,7 +29,7 @@
         <a href="https://www.linkedin.com/in/anthony-andino-ad">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
-        <a href="https://anthonyandino.github.io/](https://anthonyandino.vercel.app/">
+        <a href="https://anthonyandino.vercel.app/">
           <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <a href="https://www.instagram.com/aandino_07/">
